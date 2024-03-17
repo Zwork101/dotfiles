@@ -1,0 +1,159 @@
+{
+	"window-size": {
+		"width": 1722,
+		"height": 947
+	},
+	"window-maximized": false,
+	"window-position": {
+		"x": 29,
+		"y": 16
+	},
+	"url": "",
+	"options": {
+		"tray": true,
+		"appVisible": true,
+		"autoUpdates": true,
+		"alwaysOnTop": false,
+		"hideMenu": true,
+		"hideMenuWarned": true,
+		"startAtLogin": false,
+		"disableHardwareAcceleration": false,
+		"removeUpgradeButton": false,
+		"restartOnConfigChanges": false,
+		"trayClickPlayPause": false,
+		"autoResetAppCache": false,
+		"resumeOnStart": false,
+		"likeButtons": "",
+		"proxy": "",
+		"startingPage": "Default",
+		"overrideUserAgent": false,
+		"usePodcastParticipantAsArtist": false,
+		"themes": [
+			"/home/zwack/.config/YouTube Music/mocha.css"
+		]
+	},
+	"plugins": {
+		"notifications": {},
+		"video-toggle": {
+			"mode": "custom",
+			"enabled": true,
+			"hideVideo": true,
+			"forceHide": false,
+			"align": "left"
+		},
+		"precise-volume": {
+			"globalShortcuts": {}
+		},
+		"discord": {
+			"listenAlong": true
+		},
+		"adblocker": {
+			"enabled": false
+		},
+		"lyrics-genius": {
+			"enabled": true
+		},
+		"crossfade": {
+			"enabled": true
+		},
+		"visualizer": {
+			"enabled": false,
+			"type": "wave",
+			"butterchurn": {
+				"preset": "martin [shadow harlequins shape code] - fata morgana",
+				"renderingFrequencyInMs": 500,
+				"blendTimeInSeconds": 2.7
+			},
+			"vudio": {
+				"effect": "lighting",
+				"accuracy": 128,
+				"lighting": {
+					"maxHeight": 160,
+					"maxSize": 12,
+					"lineWidth": 1,
+					"color": "#49f3f7",
+					"shadowBlur": 2,
+					"shadowColor": "rgba(244,244,244,.5)",
+					"fadeSide": true,
+					"prettify": false,
+					"horizontalAlign": "center",
+					"verticalAlign": "middle",
+					"dottify": true
+				}
+			},
+			"wave": {
+				"animations": [
+					{
+						"type": "Cubes",
+						"config": {
+							"bottom": true,
+							"count": 30,
+							"cubeHeight": 5,
+							"fillColor": {
+								"gradient": [
+									"#FAD961",
+									"#F76B1C"
+								]
+							},
+							"lineColor": "rgba(0,0,0,0)",
+							"radius": 20
+						}
+					},
+					{
+						"type": "Cubes",
+						"config": {
+							"top": true,
+							"count": 12,
+							"cubeHeight": 5,
+							"fillColor": {
+								"gradient": [
+									"#FAD961",
+									"#F76B1C"
+								]
+							},
+							"lineColor": "rgba(0,0,0,0)",
+							"radius": 10
+						}
+					},
+					{
+						"type": "Circles",
+						"config": {
+							"lineColor": {
+								"gradient": [
+									"#FAD961",
+									"#FAD961",
+									"#F76B1C"
+								],
+								"rotate": 90
+							},
+							"lineWidth": 4,
+							"diameter": 20,
+							"count": 10,
+							"frequencyBand": "base"
+						}
+					}
+				]
+			}
+		},
+		"in-app-menu": {
+			"enabled": true
+		},
+		"blur-nav-bar": {
+			"enabled": true
+		},
+		"ambient-mode": {
+			"enabled": true
+		},
+		"compact-sidebar": {
+			"enabled": true
+		},
+		"album-color-theme": {
+			"enabled": true
+		}
+	},
+	"__internal__": {
+		"migrations": {
+			"version": "3.3.2"
+		}
+	}
+}
