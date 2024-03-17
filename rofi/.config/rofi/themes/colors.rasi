@@ -1,0 +1,16 @@
+configuration {
+    font:                           "Fira Sans 16";
+    hover-select:                   true;
+    me-select-entry:                "";
+    me-accept-entry:                "MousePrimary";
+}
+
+* {
+    background-color:               transparent;
+    background:                     #11111b;
+    background-transparent:         #11111bA0;
+    text-color:                     #cdd6f4;
+    primary:                        #cba6f7;
+    secondary:                      #f9e2af;
+    urgent:                         #f38ba8;
+}
